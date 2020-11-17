@@ -1,0 +1,17 @@
+DIGEST 1206ac60c2635c8b23043bad2bca511a
+FDm_nex
+sec 8:9 <> ml
+prf 20:25 <> Dm_nex
+R40:43 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R50:50 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R70:74 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R89:90 Coq.Init.Logic <> ::type_scope:'~'_x not
+R91:91 Dm_nex <> A var
+R93:93 Dm_nex <> x var
+R51:52 Coq.Init.Logic <> ::type_scope:'~'_x not
+R53:59 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R65:66 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R67:67 Dm_nex <> A var
+R69:69 Dm_nex <> x var
+R183:184 Dm_nex ml <> sec
+R194:199 Dm_nex <> Dm_nex thm

@@ -1,0 +1,18 @@
+DIGEST d648320ac52976120f5e3722171c48e2
+FDm_alln
+sec 8:9 <> ml
+prf 20:26 <> Dm_alln
+R41:44 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R52:52 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R72:77 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R97:97 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R78:79 Coq.Init.Logic <> ::type_scope:'~'_x not
+R80:86 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R92:93 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R94:94 Dm_alln <> A var
+R96:96 Dm_alln <> x var
+R67:68 Coq.Init.Logic <> ::type_scope:'~'_x not
+R69:69 Dm_alln <> A var
+R71:71 Dm_alln <> x var
+R202:203 Dm_alln ml <> sec
+R213:219 Dm_alln <> Dm_alln thm
