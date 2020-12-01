@@ -1,0 +1,28 @@
+DIGEST 33dfacfc7b736f8e95563cee03cb5bd9
+FAllandAll
+sec 8:9 <> ml
+prf 20:28 <> AllandAll
+R46:49 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+binder 39:39 <> A:1
+binder 41:41 <> B:2
+R100:105 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R136:136 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+binder 113:113 <> x:3
+R121:121 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R125:130 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R134:134 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R122:122 AllandAll <> A:1 var
+R124:124 AllandAll <> x:3 var
+R131:131 AllandAll <> B:2 var
+R133:133 AllandAll <> x:3 var
+R58:58 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R76:81 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R99:99 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+binder 66:66 <> x:4
+R73:73 AllandAll <> A:1 var
+R75:75 AllandAll <> x:4 var
+binder 89:89 <> x:5
+R96:96 AllandAll <> B:2 var
+R98:98 AllandAll <> x:5 var
+R229:230 AllandAll ml <> sec
+R240:248 AllandAll <> AllandAll thm

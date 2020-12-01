@@ -1,0 +1,28 @@
+DIGEST 70d17c090de560de828b4a1bc36d15ae
+FAlland
+sec 8:9 <> ml
+prf 20:25 <> Alland
+R43:46 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+binder 36:36 <> A:1
+binder 38:38 <> B:2
+R55:55 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R86:91 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R92:92 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R110:115 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R133:133 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+binder 100:100 <> x:3
+R107:107 Alland <> A:1 var
+R109:109 Alland <> x:3 var
+binder 123:123 <> x:4
+R130:130 Alland <> B:2 var
+R132:132 Alland <> x:4 var
+binder 63:63 <> x:5
+R71:71 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R75:80 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R84:84 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R72:72 Alland <> A:1 var
+R74:74 Alland <> x:5 var
+R81:81 Alland <> B:2 var
+R83:83 Alland <> x:5 var
+R194:195 Alland ml <> sec
+R205:210 Alland <> Alland thm
